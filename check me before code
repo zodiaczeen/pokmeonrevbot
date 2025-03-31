@@ -1,0 +1,19 @@
+what im doing?
+  basically im running in bushes holding a or s or anything and keep repeating until i encounter a pokemon , how computer knows when a pokemon appears ?
+so whenever a pokemon appears there is battle menu in ur screen stating "run", fight,etc
+  im taking screenshot of the place where menu appears every sec and comparing it to the screenshot i have of battle menu if both match means battle appeard
+now next stage is checking if the pokemon is "epic" or comon so for exWhat am I doing? 
+
+Basically, I'm running through the bushes while holding the 'A' or 'S' key, and I keep repeating this until I encounter a Pokémon. How does the computer know when a Pokémon has appeared? 
+
+Whenever a Pokémon shows up, a battle menu appears on your screen with options like "Run," "Fight," etc. I'm taking a screenshot of the area where the menu appears every second and comparing it to the screenshot I have of the battle menu. If both match, it means a battle has started.
+
+The next stage is checking whether the Pokémon is "epic" or "common." For example, i am looking for a charmander which is rare so i found a chartmander manually and screenshot it , whenever the battle starts im comparing screenshot of the area of pokemon wd the screenshot of my pokemon in this case charmander
+  if they matches send an alert via pyautogui.alert
+  else 
+  run away wd pyautogui.moveTo and pyautogui.click
+  and repeat the process again and again until it find another charmander i could have made it catch charmander or add ev training or level up training 
+means the potential this program has is very big 
+enjoy : )
+btw my monitor is 16.4 inches and 1920*1080
+  so if u dont have same size and resolution u need to check for particular coordinates of certain button in ur screen dw i will give u  a code to find that too
